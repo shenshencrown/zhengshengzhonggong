@@ -36,6 +36,6 @@ public class UserController {
     public String showUserList(Model model) {
 //        List<User> users = userService.showAllUsers();
 //        model.addAttribute("users", users);
-        return "hello";
+        return "home";
     }
 }
