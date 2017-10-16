@@ -34,8 +34,45 @@ public class UserController {
      */
     @RequestMapping("/index")
     public String showUserList(Model model) {
-//        List<User> users = userService.showAllUsers();
-//        model.addAttribute("users", users);
         return "home";
+    }
+
+    /**
+     * 返回企业新闻页面
+     *
+     * @param model
+     * @return
+     */
+    @RequestMapping("/qiyexinwen")
+    public String showQiYeXinWen(Model model) {
+        return "qiyexinwen";
+    }
+
+    /**
+     * 返回行业新闻页面
+     *
+     * @param model
+     * @return
+     */
+    @RequestMapping("/hangyexinwen")
+    public String showHangYeXinWen(Model model) {
+        return "hangyexinwen";
+    }
+
+    /**
+     *
+     * 返回产品知识页面
+     *
+     * @param model
+     * @return
+     */
+    @RequestMapping("/chanpinzhishi")
+    public String showChanPinZhiShi(Model model) {
+        return "chanpinzhishi";
+    }
+
+    @RequestMapping("/xinwenzhongxin")
+    public String showXinWenZhongXin(Model model) {
+        return "xinwenzhongxin";
     }
 }

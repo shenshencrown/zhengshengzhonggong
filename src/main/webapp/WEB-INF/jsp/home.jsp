@@ -56,9 +56,9 @@
                     <dd><a href="/aboutus/11-1.html">公司概括</a></dd><dd><a href="/aboutus/12-1.html">企业文化</a></dd><dd><a href="/aboutus/13-1.html">企业荣誉</a></dd>
                 </dl>
             </li>
-            <li id="nav3" class="fl tc" onmouseover="nav_on(3)" onmouseout="nav_off(3)"><a class="pt35" href="/news/news_1/"><p class="f12">NEWS</p><em>新闻中心</em></a>
+            <li id="nav3" class="fl tc" onmouseover="nav_on(3)" onmouseout="nav_off(3)"><a class="pt35" href="/home/xinwenzhongxin"><p class="f12">NEWS</p><em>新闻中心</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/news/qiyexinwen_2/">企业新闻</a></dd><dd><a href="/news/hangyexinwen_3/">行业新闻</a></dd><dd><a href="/news/chanpinzhishi_4/">产品知识</a></dd>
+                    <dd><a href="/home/qiyexinwen">企业新闻</a></dd><dd><a href="/home/hangyexinwen">行业新闻</a></dd><dd><a href="/news/chanpinzhishi_4/">产品知识</a></dd>
                 </dl>
             </li>
             <li id="nav4" class="fl tc" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/product/"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
@@ -294,7 +294,7 @@
 
         <div class="fl news ml20">
             <div class="midcase" id="box">
-                <h2 class="fl title mb10 f18"><a href="/news/news_1/" target="_blank">新闻中心</a>
+                <h2 class="fl title mb10 f18"><a href="/home/xinwenzhongxin" target="_blank">新闻中心</a>
                     <div class="arror"><span class="down"><img src="/picture/arror_down.jpg" id="down"></span> <span class="up"><img src="/picture/arror_up.jpg" id="up"></span> </div>
                 </h2>
                 <div class="ps_list">
@@ -470,7 +470,7 @@
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">新闻中心</dt>
-                <dd><a href="/news/peijianfuwu_5/">配件服务</a></dd><dd><a href="/news/qiyexinwen_1/">新闻中心</a></dd>
+                <dd><a href="/news/peijianfuwu_5/">配件服务</a></dd><dd><a href="/home/xinwenzhongxin">新闻中心</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">产品中心</dt>
