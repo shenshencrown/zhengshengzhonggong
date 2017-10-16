@@ -21,7 +21,7 @@ import java.util.List;
 @RequestMapping("/home")
 public class UserController {
 
-    public UserController(){
+    public UserController() {
         System.out.println("usercontroller初始化了！！！！！！！！！！");
     }
 
@@ -60,7 +60,6 @@ public class UserController {
     }
 
     /**
-     *
      * 返回产品知识页面
      *
      * @param model
@@ -71,8 +70,44 @@ public class UserController {
         return "chanpinzhishi";
     }
 
+    /**
+     * 返回新闻中心页面
+     *
+     * @param model
+     * @return
+     */
     @RequestMapping("/xinwenzhongxin")
     public String showXinWenZhongXin(Model model) {
         return "xinwenzhongxin";
+    }
+
+    @RequestMapping("/product")
+    public String showProduct(Model model) {
+        return "product";
+    }
+
+    @RequestMapping("/zhisha")
+    public String showZhiSha(Model model) {
+        return "zhisha";
+    }
+
+    @RequestMapping("/posui")
+    public String showPoSui(Model model) {
+        return "posui";
+    }
+
+    @RequestMapping("/yidongposui")
+    public String showYiDongPoSui(Model model) {
+        return "yidongposui";
+    }
+
+    @RequestMapping("/peitao")
+    public String showPeiTao(Model model) {
+        return "peitao";
+    }
+
+    @RequestMapping("shaifen")
+    public String showShaiFen(Model model) {
+        return "shaifen";
     }
 }

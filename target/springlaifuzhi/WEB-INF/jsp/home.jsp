@@ -61,10 +61,10 @@
                     <dd><a href="/home/qiyexinwen">企业新闻</a></dd><dd><a href="/home/hangyexinwen">行业新闻</a></dd><dd><a href="/news/chanpinzhishi_4/">产品知识</a></dd>
                 </dl>
             </li>
-            <li id="nav4" class="fl tc" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/product/"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
+            <li id="nav4" class="fl tc" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/home/product"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
                 <dl class="f12 navprolist_left">
                     <ul>
-                        <li class='fl tc'><a href="/product/JSxiliejiaobanji_1/">制砂设备</a></li><li class='fl tc'><a href="/product/JZCxiliejiaobanji_2/">破碎设备</a></li><li class='fl tc'><a href="/product/JZMmocajiaobanji_3/">移动破碎站</a></li><li class='fl tc'><a href="/product/PLDpeiliaoji_4/">配套设备</a></li><li class='fl tc'><a href="/product/shaifenshebei_18/">筛分设备</a></li>
+                        <li class='fl tc'><a href="/home/zhisha">制砂设备</a></li><li class='fl tc'><a href="/home/posui">破碎设备</a></li><li class='fl tc'><a href="/home/yidongposui">移动破碎站</a></li><li class='fl tc'><a href="/home/peitao">配套设备</a></li><li class='fl tc'><a href="/home/shaifen">筛分设备</a></li>
                     </ul>
                 </dl>
                 <dl class="f12 navprolist_right">
@@ -474,7 +474,7 @@
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">产品中心</dt>
-                <dd><a href="/product/JSxiliejiaobanji_1/">制砂设备</a></dd><dd><a href="/product/JZCxiliejiaobanji_2/">破碎设备</a></dd><dd><a href="/product/JZMmocajiaobanji_3/">移动破碎站</a></dd><dd><a href="/product/PLDpeiliaoji_4/">配套设备</a></dd><dd><a href="/product/shaifenshebei_18/">筛分设备</a></dd>
+                <dd><a href="/home/zhisha">制砂设备</a></dd><dd><a href="/home/posui">破碎设备</a></dd><dd><a href="/home/yidongposui">移动破碎站</a></dd><dd><a href="/home/peitao">配套设备</a></dd><dd><a href="/home/shaifen">筛分设备</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">案例中心</dt>

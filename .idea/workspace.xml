@@ -7,13 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9c95cd-e349-4346-971d-3eb87c2baf50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/qunar/syk/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/qunar/syk/controller/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/springlaifuzhi.war" afterPath="$PROJECT_DIR$/target/springlaifuzhi.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/springlaifuzhi/WEB-INF/classes/com/qunar/syk/controller/UserController.class" afterPath="$PROJECT_DIR$/target/springlaifuzhi/WEB-INF/classes/com/qunar/syk/controller/UserController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/springlaifuzhi/WEB-INF/jsp/home.jsp" afterPath="$PROJECT_DIR$/target/springlaifuzhi/WEB-INF/jsp/home.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,30 +24,23 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1300">
-              <caret line="75" column="30" lean-forward="false" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+            <state relative-caret-position="238">
+              <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
               <folding>
-                <element signature="e#1007#1008#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1194#1195#0" expanded="true" />
-                <element signature="e#1229#1230#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1599#1600#0" expanded="true" />
-                <element signature="e#1637#1638#0" expanded="true" />
-                <element signature="e#1729#1730#0" expanded="true" />
-                <element signature="e#1768#1769#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#1914#1915#0" expanded="true" />
+                <element signature="e#1946#1947#0" expanded="true" />
+                <element signature="e#2022#2023#0" expanded="true" />
+                <element signature="e#2053#2054#0" expanded="true" />
+                <element signature="e#2127#2128#0" expanded="true" />
+                <element signature="e#2157#2158#0" expanded="true" />
+                <element signature="e#2243#2244#0" expanded="true" />
+                <element signature="e#2279#2280#0" expanded="true" />
+                <element signature="e#2355#2356#0" expanded="true" />
+                <element signature="e#2386#2387#0" expanded="true" />
+                <element signature="e#2463#2464#0" expanded="true" />
+                <element signature="e#2495#2496#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -59,69 +48,128 @@
       <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7400">
-              <caret line="296" column="97" lean-forward="false" selection-start-line="296" selection-start-column="93" selection-end-line="296" selection-end-column="97" />
+            <state relative-caret-position="85">
+              <caret line="476" column="132" lean-forward="false" selection-start-line="476" selection-start-column="127" selection-end-line="476" selection-end-column="132" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hangyexinwen.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hangyexinwen.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1450">
-              <caret line="58" column="138" lean-forward="false" selection-start-line="58" selection-start-column="138" selection-end-line="58" selection-end-column="138" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chanpinzhishi.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/chanpinzhishi.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10100">
-              <caret line="404" column="41" lean-forward="false" selection-start-line="404" selection-start-column="37" selection-end-line="404" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xinwenzhongxin.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xinwenzhongxin.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/xinwenzhongxin.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="410" column="17" lean-forward="true" selection-start-line="410" selection-start-column="17" selection-end-line="410" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="415" column="36" lean-forward="true" selection-start-line="415" selection-start-column="36" selection-end-line="415" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index.js">
+      <file leaf-file-name="product.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/product.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="154" column="107" lean-forward="false" selection-start-line="154" selection-start-column="103" selection-end-line="154" selection-end-column="107" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navmenu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/navmenu.js">
+      <file leaf-file-name="zhisha.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/zhisha.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="189" column="229" lean-forward="false" selection-start-line="189" selection-start-column="225" selection-end-line="189" selection-end-column="229" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slides.jquery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/slides.jquery.js">
+      <file leaf-file-name="posui.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/posui.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="66" column="302" lean-forward="false" selection-start-line="66" selection-start-column="298" selection-end-line="66" selection-end-column="302" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yidongposui.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/yidongposui.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="66" column="291" lean-forward="false" selection-start-line="66" selection-start-column="287" selection-end-line="66" selection-end-column="291" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="peitao.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/peitao.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="66" column="302" lean-forward="false" selection-start-line="66" selection-start-column="298" selection-end-line="66" selection-end-column="302" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shaifen.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shaifen.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="169" column="213" lean-forward="false" selection-start-line="169" selection-start-column="209" selection-end-line="169" selection-end-column="213" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,16 +196,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>favorite_button</find>
-      <find>delete_smsnotice</find>
-      <find>hideallcoin_details</find>
-      <find>urlid</find>
-      <find>is_login</find>
-      <find>showallcoin_details</find>
-      <find>noticesound</find>
-      <find>getyidong</find>
-      <find>show_quanzhanresult</find>
-      <find>show_yidong</find>
       <find>customyidong</find>
       <find>yidongresultnum</find>
       <find>sort_bytime</find>
@@ -178,6 +216,16 @@
       <find>企业新闻</find>
       <find>/news/news_1</find>
       <find>新闻中心</find>
+      <find>产品中心</find>
+      <find>破碎</find>
+      <find>配套</find>
+      <find>筛分</find>
+      <find>制砂</find>
+      <find>破碎设备</find>
+      <find>移动破碎站</find>
+      <find>移动破碎</find>
+      <find>配套设备</find>
+      <find>筛分设备</find>
     </findStrings>
     <replaceStrings>
       <replace>${pageContext.request.contextPath}</replace>
@@ -220,12 +268,18 @@
         <option value="$PROJECT_DIR$/src/main/webapp/js/all.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/chanpinzhishi.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hangyexinwen.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/qiyexinwen.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/xinwenzhongxin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/peitao.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/posui.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/product.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shaifen.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/yidongposui.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/zhisha.jsp" />
       </list>
     </option>
   </component>
@@ -270,7 +324,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="587" />
     <option name="y" value="97" />
     <option name="width" value="768" />
@@ -382,17 +436,17 @@
     <property name="SearchEverywhereHistoryKey" value="userDao&#9;FILE&#9;file://D:/bitTransaction/src/main/java/com/qunar/syk/dao/UserDao.java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bitTransaction\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\bitTransaction\src\main\webapp" />
+      <recent name="D:\bitTransaction\src\main\resources\spring" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\zhengshengzhonggong\src\main\webapp\picture" />
       <recent name="D:\zhengshengzhonggong\src\main\webapp\images" />
       <recent name="D:\zhengshengzhonggong\src\main\webapp\css" />
       <recent name="D:\zhengshengzhonggong\src\main\webapp\js" />
       <recent name="D:\bitTransaction\src\main\webapp" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\bitTransaction\src\main\webapp\WEB-INF\jsp" />
-      <recent name="D:\bitTransaction\src\main\webapp" />
-      <recent name="D:\bitTransaction\src\main\resources\spring" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -663,7 +717,7 @@
       <workItem from="1507564074129" duration="130000" />
       <workItem from="1507645131728" duration="6262000" />
       <workItem from="1507814554299" duration="11189000" />
-      <workItem from="1508157741148" duration="279000" />
+      <workItem from="1508157741148" duration="9232000" />
     </task>
     <servers />
   </component>
@@ -673,14 +727,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94260000" />
+    <option name="totallyTimeSpent" value="103213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39554796" sideWeight="0.19818456" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42123288" sideWeight="0.19818456" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.635274" sideWeight="0.49092284" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.071104385" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -696,11 +750,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39554796" sideWeight="0.80181545" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42123288" sideWeight="0.80181545" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28139183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -758,30 +812,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addUser.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/dao/impl/UserDaoImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/service/impl/UserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/support/aop/AopDaoRunTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-175">
@@ -918,13 +948,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/qiyexinwen.css" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10422">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/html.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -973,33 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="75" column="30" lean-forward="false" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
-          <folding>
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-            <element signature="e#1229#1230#0" expanded="true" />
-            <element signature="e#1391#1392#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1599#1600#0" expanded="true" />
-            <element signature="e#1637#1638#0" expanded="true" />
-            <element signature="e#1729#1730#0" expanded="true" />
-            <element signature="e#1768#1769#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7400">
-          <caret line="296" column="97" lean-forward="false" selection-start-line="296" selection-start-column="93" selection-end-line="296" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hangyexinwen.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1450">
@@ -1024,11 +1020,146 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10611">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/xinwenzhongxin.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="410" column="17" lean-forward="true" selection-start-line="410" selection-start-column="17" selection-end-line="410" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="415" column="36" lean-forward="true" selection-start-line="415" selection-start-column="36" selection-end-line="415" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
+          <folding>
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#1914#1915#0" expanded="true" />
+            <element signature="e#1946#1947#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2127#2128#0" expanded="true" />
+            <element signature="e#2157#2158#0" expanded="true" />
+            <element signature="e#2243#2244#0" expanded="true" />
+            <element signature="e#2279#2280#0" expanded="true" />
+            <element signature="e#2355#2356#0" expanded="true" />
+            <element signature="e#2386#2387#0" expanded="true" />
+            <element signature="e#2463#2464#0" expanded="true" />
+            <element signature="e#2495#2496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="476" column="132" lean-forward="false" selection-start-line="476" selection-start-column="127" selection-end-line="476" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/peitao.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="66" column="302" lean-forward="false" selection-start-line="66" selection-start-column="298" selection-end-line="66" selection-end-column="302" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/posui.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="66" column="302" lean-forward="false" selection-start-line="66" selection-start-column="298" selection-end-line="66" selection-end-column="302" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/product.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="154" column="107" lean-forward="false" selection-start-line="154" selection-start-column="103" selection-end-line="154" selection-end-column="107" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shaifen.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="169" column="213" lean-forward="false" selection-start-line="169" selection-start-column="209" selection-end-line="169" selection-end-column="213" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/yidongposui.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="66" column="291" lean-forward="false" selection-start-line="66" selection-start-column="287" selection-end-line="66" selection-end-column="291" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/zhisha.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="189" column="229" lean-forward="false" selection-start-line="189" selection-start-column="225" selection-end-line="189" selection-end-column="229" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
