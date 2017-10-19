@@ -78,13 +78,13 @@
                     <dd><a href="/case/zhuanghuoxianchang_1/">制砂生产线</a></dd><dd><a href="/case/shipinzhongxin_2/">破碎筛分线</a></dd>
                 </dl>
             </li>
-            <li id="nav8" class="fl tc" onmouseover="nav_on(8)" onmouseout="nav_off(8)"><a class="pt35" href="/service/changjianwenti_6/"><p class="f12">SERVICE</p><em>配件服务</em></a>
+            <li id="nav8" class="fl tc" onmouseover="nav_on(8)" onmouseout="nav_off(8)"><a class="pt35" href="/home/peijianfuwu"><p class="f12">SERVICE</p><em>配件服务</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/service/changjianwenti_6/">常见问题</a></dd><dd><a href="/service/chanpinpeijian_7/">产品配件</a></dd>
-                    <dd><a href="/serviceinfo.html">服务承诺</a></dd>
+                    <dd><a href="/home/problem">常见问题</a></dd><dd><a href="/home/chanpinpeijian">产品配件</a></dd>
+                    <dd><a href="/home/fuwuchengnuo">服务承诺</a></dd>
                 </dl>
             </li>
-            <li id="nav9" class="fl tc" onmouseover="nav_on(9)" onmouseout="nav_off(9)"><a class="pt35" href="/join.html"><p class="f12">JOIN</p><em>加入我们</em></a>
+            <li id="nav9" class="fl tc" onmouseover="nav_on(9)" onmouseout="nav_off(9)"><a class="pt35" href="/home/joinus"><p class="f12">JOIN</p><em>加入我们</em></a>
             </li>
             <li id="nav10" class="fl tc" onmouseover="nav_on(10)" onmouseout="nav_off(10)"><a class="pt35" href="/contactus.html"><p class="f12">CONTACTUS</p><em>联系我们</em></a>
                 <dl class="f12 nav_list">
@@ -470,7 +470,7 @@
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">新闻中心</dt>
-                <dd><a href="/news/peijianfuwu_5/">配件服务</a></dd><dd><a href="/home/xinwenzhongxin">新闻中心</a></dd>
+                <dd><a href="/home/peijianfuwu">配件服务</a></dd><dd><a href="/home/xinwenzhongxin">新闻中心</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">产品中心</dt>

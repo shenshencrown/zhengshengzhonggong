@@ -110,4 +110,29 @@ public class UserController {
     public String showShaiFen(Model model) {
         return "shaifen";
     }
+
+    @RequestMapping("joinus")
+    public String showJoinUs(Model model) {
+        return "joinus";
+    }
+
+    @RequestMapping("peijianfuwu")
+    public String showPeiJianFuWu(Model model) {
+        return "peijianfuwu";
+    }
+
+    @RequestMapping("problem")
+    public String showProblem(Model model) {
+        return "problem";
+    }
+
+    @RequestMapping("chanpinpeijian")
+    public String showChanPinPeiJian(Model model) {
+        return "chanpinpeijian";
+    }
+
+    @RequestMapping("fuwuchengnuo")
+    public String showFuWuChengNuo(Model model) {
+        return "fuwuchengnuo";
+    }
 }
