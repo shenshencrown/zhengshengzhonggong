@@ -51,17 +51,17 @@
     <div class="fr MenuDiv">
         <ul id="nav" class="f16  navi">
             <li class="fl tc"><a class="pt35" href="/"><p class="f12">HOME</p><em>正升首页</em></a></li>
-            <li id="nav2" class="fl tc" onmouseover="nav_on(2)" onmouseout="nav_off(2)"><a class="pt35"  href="/aboutus/"><p class="f12">ABOUTUS</p><em>关于正升</em></a>
+            <li id="nav2" class="fl tc" onmouseover="nav_on(2)" onmouseout="nav_off(2)"><a class="pt35"  href="/home/guanyuzhengsheng"><p class="f12">ABOUTUS</p><em>关于正升</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/aboutus/11-1.html">公司概括</a></dd><dd><a href="/aboutus/12-1.html">企业文化</a></dd><dd><a href="/aboutus/13-1.html">企业荣誉</a></dd>
+                    <dd><a href="/home/gongsigaikuo">公司概括</a></dd><dd><a href="/home/qiyewenhua">企业文化</a></dd><dd><a href="/home/qiyerongyu">企业荣誉</a></dd>
                 </dl>
             </li>
-            <li id="nav3" class="fl tc" onmouseover="nav_on(3)" onmouseout="nav_off(3)"><a class="pt35" href="/news/news_1/"><p class="f12">NEWS</p><em>新闻中心</em></a>
+            <li id="nav3" class="fl tc" onmouseover="nav_on(3)" onmouseout="nav_off(3)"><a class="pt35" href="/home/xinwenzhongxin"><p class="f12">NEWS</p><em>新闻中心</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/news/qiyexinwen_2/">企业新闻</a></dd><dd><a href="/news/hangyexinwen_3/">行业新闻</a></dd><dd><a href="/news/chanpinzhishi_4/">产品知识</a></dd>
+                    <dd><a href="/home/qiyexinwen">企业新闻</a></dd><dd><a href="/home/hangyexinwen">行业新闻</a></dd><dd><a href="/home/chanpinzhishi">产品知识</a></dd>
                 </dl>
             </li>
-            <li id="nav4" class="fl tc current" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/product/"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
+            <li id="nav4" class="fl tc current" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/home/product"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
                 <dl class="f12 navprolist_left">
                     <ul>
                         <li class='fl tc'><a href="/home/zhisha">制砂设备</a></li><li class='fl tc'><a href="/home/posui">破碎设备</a></li><li class='fl tc'><a href="/home/yidongposui">移动破碎站</a></li><li class='fl tc'><a href="/home/peitao">配套设备</a></li><li class='fl tc'><a href="/home/shaifen">筛分设备</a></li>
@@ -73,23 +73,23 @@
                     <dd class="fl"><p class="fl navimg"><a href="/product/JZCxiliejiaobanji_2/30.html"><img src="/picture/2017.4.12_10.49.28_4796.jpg" width="210" height="140" /></a></p><p class="fl mt20"><em class="tc f16"><a href="/product/JZCxiliejiaobanji_2/30.html">ZSF欧版反击式破碎机</a></em><em>ZSF欧版反击式破碎机（简称欧版反击破）是正升重工引进、…</em><span class="morea"><a href="/product/JZCxiliejiaobanji_2/30.html">更多详情</a></span></p></dd>
                 </dl>
             </li>
-            <li id="nav7" class="fl tc" onmouseover="nav_on(7)" onmouseout="nav_off(7)"><a class="pt35" href="/case/"><p class="f12">CASE</p><em>工程案例</em></a>
+            <li id="nav7" class="fl tc" onmouseover="nav_on(7)" onmouseout="nav_off(7)"><a class="pt35" href="/home/gongchenganli"><p class="f12">CASE</p><em>工程案例</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/case/zhuanghuoxianchang_1/">制砂生产线</a></dd><dd><a href="/case/shipinzhongxin_2/">破碎筛分线</a></dd>
+                    <dd><a href="/home/zhishashengchanxian">制砂生产线</a></dd><dd><a href="/home/posuishengchanxian">破碎筛分线</a></dd>
                 </dl>
             </li>
-            <li id="nav8" class="fl tc" onmouseover="nav_on(8)" onmouseout="nav_off(8)"><a class="pt35" href="/service/changjianwenti_6/"><p class="f12">SERVICE</p><em>配件服务</em></a>
+            <li id="nav8" class="fl tc" onmouseover="nav_on(8)" onmouseout="nav_off(8)"><a class="pt35" href="/home/peijianfuwu"><p class="f12">SERVICE</p><em>配件服务</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/service/changjianwenti_6/">常见问题</a></dd><dd><a href="/service/chanpinpeijian_7/">产品配件</a></dd>
-                    <dd><a href="/serviceinfo.html">服务承诺</a></dd>
+                    <dd><a href="/home/problem">常见问题</a></dd><dd><a href="/home/chanpinpeijian">产品配件</a></dd>
+                    <dd><a href="/home/fuwuchengnuo">服务承诺</a></dd>
                 </dl>
             </li>
-            <li id="nav9" class="fl tc" onmouseover="nav_on(9)" onmouseout="nav_off(9)"><a class="pt35" href="/join.html"><p class="f12">JOIN</p><em>加入我们</em></a>
+            <li id="nav9" class="fl tc" onmouseover="nav_on(9)" onmouseout="nav_off(9)"><a class="pt35" href="/home/joinus"><p class="f12">JOIN</p><em>加入我们</em></a>
             </li>
-            <li id="nav10" class="fl tc" onmouseover="nav_on(10)" onmouseout="nav_off(10)"><a class="pt35" href="/contactus.html"><p class="f12">CONTACTUS</p><em>联系我们</em></a>
+            <li id="nav10" class="fl tc" onmouseover="nav_on(10)" onmouseout="nav_off(10)"><a class="pt35" href="/home/lianxiwomen"><p class="f12">CONTACTUS</p><em>联系我们</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/contactus.html">联系我们</a></dd>
-                    <dd><a href="/message.html">在线留言</a></dd>
+                    <dd><a href="/home/lianxiwomen">联系我们</a></dd>
+                    <dd><a href="/home/zaixianliuyan">在线留言</a></dd>
                 </dl>
             </li>
         </ul>
@@ -101,13 +101,13 @@
 
 <div id="submain">
     <div class="subtitbg f12"><h2 class="clearfix w1160 bc"><p class="fl abitbg f27 c_white tc">产品中心</p><p class="fl f21 mt20 ml20 technologyTab">
-    </p><span class="fr locationaa mt20 c_gray"><a href="/">首页</a> > <a href="/product/">产品中心</a>>>移动破碎站</span></h2></div>
+    </p><span class="fr locationaa mt20 c_gray"><a href="/">首页</a> > <a href="/home/product">产品中心</a>>>移动破碎站</span></h2></div>
     <div class="clearfix w1160 bc mt20 proudcts">
 
         <div style="display:block; height:120px; width:100%;">
             <div class="fl subprolist f14">
                 <p class="subprolist_a"><span class="fl f16 c_white"><a href="javascript:;">设备分类</a></span>
-                    <a href="/home/zhisha">制砂设备</a><a href="/product/JZCxiliejiaobanji_2/">破碎设备</a><a class="tabOn" href="/home/yidongposui">移动破碎站</a><a href="/home/peitao">配套设备</a><a href="/home/shaifen">筛分设备</a>
+                    <a href="/home/zhisha">制砂设备</a><a href="/home/posui">破碎设备</a><a class="tabOn" href="/home/yidongposui">移动破碎站</a><a href="/home/peitao">配套设备</a><a href="/home/shaifen">筛分设备</a>
                 </p>
             </div>
         </div>
@@ -154,11 +154,11 @@
             <p class="fl erweima"><em class="fl erweima_img"></em><em class="fl mt10">扫一扫，关注正升重工</em></p>
             <dl class="fl footlist ml100">
                 <dt class="f16 mb10">关于正升</dt>
-                <dd><a href="/aboutus/11-1.html">公司概括</a></dd><dd><a href="/aboutus/12-1.html">企业文化</a></dd><dd><a href="/aboutus/13-1.html">企业荣誉</a></dd>
+                <dd><a href="/home/gongsigaikuo">公司概括</a></dd><dd><a href="/home/qiyewenhua">企业文化</a></dd><dd><a href="/home/qiyerongyu">企业荣誉</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">新闻中心</dt>
-                <dd><a href="/news/peijianfuwu_5/">配件服务</a></dd><dd><a href="/news/qiyexinwen_1/">新闻中心</a></dd>
+                <dd><a href="/home/peijianfuwu">配件服务</a></dd><dd><a href="/home/xinwenzhongxin">新闻中心</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">产品中心</dt>
@@ -166,7 +166,7 @@
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">案例中心</dt>
-                <dd><a href="/case/zhuanghuoxianchang_1/">制砂生产线</a></dd><dd><a href="/case/shipinzhongxin_2/">破碎筛分线</a></dd>
+                <dd><a href="/home/zhishashengchanxian">制砂生产线</a></dd><dd><a href="/home/posuishengchanxian">破碎筛分线</a></dd>
             </dl>
             <p class="fr footcall"><em class="f16">荥阳市桃贾路中段（郑州市西绕城高速豫龙站）</em></p>
         </div>

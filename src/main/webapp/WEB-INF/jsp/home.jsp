@@ -51,14 +51,14 @@
     <div class="fr MenuDiv">
         <ul id="nav" class="f16  navi">
             <li class="fl tc current"><a class="pt35" href="/"><p class="f12">HOME</p><em>正升首页</em></a></li>
-            <li id="nav2" class="fl tc" onmouseover="nav_on(2)" onmouseout="nav_off(2)"><a class="pt35"  href="/aboutus/"><p class="f12">ABOUTUS</p><em>关于正升</em></a>
+            <li id="nav2" class="fl tc" onmouseover="nav_on(2)" onmouseout="nav_off(2)"><a class="pt35"  href="/home/guanyuzhengsheng"><p class="f12">ABOUTUS</p><em>关于正升</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/aboutus/11-1.html">公司概括</a></dd><dd><a href="/aboutus/12-1.html">企业文化</a></dd><dd><a href="/aboutus/13-1.html">企业荣誉</a></dd>
+                    <dd><a href="/home/gongsigaikuo">公司概括</a></dd><dd><a href="/home/qiyewenhua">企业文化</a></dd><dd><a href="/home/qiyerongyu">企业荣誉</a></dd>
                 </dl>
             </li>
             <li id="nav3" class="fl tc" onmouseover="nav_on(3)" onmouseout="nav_off(3)"><a class="pt35" href="/home/xinwenzhongxin"><p class="f12">NEWS</p><em>新闻中心</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/home/qiyexinwen">企业新闻</a></dd><dd><a href="/home/hangyexinwen">行业新闻</a></dd><dd><a href="/news/chanpinzhishi_4/">产品知识</a></dd>
+                    <dd><a href="/home/qiyexinwen">企业新闻</a></dd><dd><a href="/home/hangyexinwen">行业新闻</a></dd><dd><a href="/home/chanpinzhishi">产品知识</a></dd>
                 </dl>
             </li>
             <li id="nav4" class="fl tc" onmouseover="nav_on(4)" onmouseout="nav_off(4)"><a class="pt35" href="/home/product"><p class="f12">PRODUCTS</p><em>产品中心</em></a>
@@ -73,9 +73,9 @@
                     <dd class="fl"><p class="fl navimg"><a href="/product/JZCxiliejiaobanji_2/30.html"><img src="picture/2017.4.12_10.49.28_4796.jpg" width="210" height="140" /></a></p><p class="fl mt20"><em class="tc f16"><a href="/product/JZCxiliejiaobanji_2/30.html">ZSF欧版反击式破碎机</a></em><em>ZSF欧版反击式破碎机（简称欧版反击破）是正升重工引进、…</em><span class="morea"><a href="/product/JZCxiliejiaobanji_2/30.html">更多详情</a></span></p></dd>
                 </dl>
             </li>
-            <li id="nav7" class="fl tc" onmouseover="nav_on(7)" onmouseout="nav_off(7)"><a class="pt35" href="/case/"><p class="f12">CASE</p><em>工程案例</em></a>
+            <li id="nav7" class="fl tc" onmouseover="nav_on(7)" onmouseout="nav_off(7)"><a class="pt35" href="/home/gongchenganli"><p class="f12">CASE</p><em>工程案例</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/case/zhuanghuoxianchang_1/">制砂生产线</a></dd><dd><a href="/case/shipinzhongxin_2/">破碎筛分线</a></dd>
+                    <dd><a href="/home/zhishashengchanxian">制砂生产线</a></dd><dd><a href="/home/posuishengchanxian">破碎筛分线</a></dd>
                 </dl>
             </li>
             <li id="nav8" class="fl tc" onmouseover="nav_on(8)" onmouseout="nav_off(8)"><a class="pt35" href="/home/peijianfuwu"><p class="f12">SERVICE</p><em>配件服务</em></a>
@@ -86,10 +86,10 @@
             </li>
             <li id="nav9" class="fl tc" onmouseover="nav_on(9)" onmouseout="nav_off(9)"><a class="pt35" href="/home/joinus"><p class="f12">JOIN</p><em>加入我们</em></a>
             </li>
-            <li id="nav10" class="fl tc" onmouseover="nav_on(10)" onmouseout="nav_off(10)"><a class="pt35" href="/contactus.html"><p class="f12">CONTACTUS</p><em>联系我们</em></a>
+            <li id="nav10" class="fl tc" onmouseover="nav_on(10)" onmouseout="nav_off(10)"><a class="pt35" href="/home/lianxiwomen"><p class="f12">CONTACTUS</p><em>联系我们</em></a>
                 <dl class="f12 nav_list">
-                    <dd><a href="/contactus.html">联系我们</a></dd>
-                    <dd><a href="/message.html">在线留言</a></dd>
+                    <dd><a href="/home/lianxiwomen">联系我们</a></dd>
+                    <dd><a href="/home/zaixianliuyan">在线留言</a></dd>
                 </dl>
             </li>
         </ul>
@@ -382,7 +382,7 @@
                     <em class="fl f25 mt10 ml20">案例中心</em>
                     <em class="fl f14 ml20"><span class="fl mt15">专注制砂机  质量保证</span> <span class="fr icon_case mt10"></span></em>
                 </p>
-                <p class="fl rightcase f14 c_white tc"><a href="/message.html">在线留言</a></p>
+                <p class="fl rightcase f14 c_white tc"><a href="/home/zaixianliuyan">在线留言</a></p>
             </div>
         </div>
     </div>
@@ -466,7 +466,7 @@
             <p class="fl erweima"><em class="fl erweima_img"></em><em class="fl mt10">扫一扫，关注正升重工</em></p>
             <dl class="fl footlist ml100">
                 <dt class="f16 mb10">关于正升</dt>
-                <dd><a href="/aboutus/11-1.html">公司概括</a></dd><dd><a href="/aboutus/12-1.html">企业文化</a></dd><dd><a href="/aboutus/13-1.html">企业荣誉</a></dd>
+                <dd><a href="/home/gongsigaikuo">公司概括</a></dd><dd><a href="/home/qiyewenhua">企业文化</a></dd><dd><a href="/home/qiyerongyu">企业荣誉</a></dd>
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">新闻中心</dt>
@@ -478,7 +478,7 @@
             </dl>
             <dl class="fl footlist">
                 <dt class="f16 mb10">案例中心</dt>
-                <dd><a href="/case/zhuanghuoxianchang_1/">制砂生产线</a></dd><dd><a href="/case/shipinzhongxin_2/">破碎筛分线</a></dd>
+                <dd><a href="/home/zhishashengchanxian">制砂生产线</a></dd><dd><a href="/home/posuishengchanxian">破碎筛分线</a></dd>
             </dl>
             <p class="fr footcall"><em class="f16">荥阳市桃贾路中段（郑州市西绕城高速豫龙站）</em></p>
         </div>
