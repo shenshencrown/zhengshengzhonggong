@@ -165,7 +165,7 @@
     <div class="services_con" id="services_con">
         <ul id="services_ul" class="mouseslider f12">
 
-            <li class="gyzcgs"><a href="http://www.zhengshengchina.com/product/JSxiliejiaobanji_1/"><div class="services_ico"><img src="/picture/2016.10.17_15.31.18_1251.jpg" width="260" height="110"></div>
+            <li class="gyzcgs"><a href="/home/zhisha"><div class="services_ico"><img src="/picture/2016.10.17_15.31.18_1251.jpg" width="260" height="110"></div>
                 <div class="services_block">
                     <div class="services_block_b"></div>
                     <div class="services_block_Content c_white">
@@ -174,7 +174,7 @@
                 </div>
             </a></li>
 
-            <li class="gyzcgs"><a href="http://www.zhengshengchina.com/product/JZCxiliejiaobanji_2/"><div class="services_ico"><img src="/picture/2016.10.17_15.49.15_8913.jpg" width="260" height="110"></div>
+            <li class="gyzcgs"><a href="/home/posui"><div class="services_ico"><img src="/picture/2016.10.17_15.49.15_8913.jpg" width="260" height="110"></div>
                 <div class="services_block">
                     <div class="services_block_b"></div>
                     <div class="services_block_Content c_white">
@@ -183,7 +183,7 @@
                 </div>
             </a></li>
 
-            <li class="gyzcgs"><a href="http://www.zhengshengchina.com/product/JZMmocajiaobanji_3/"><div class="services_ico"><img src="/picture/2016.10.17_15.52.27_9747.jpg" width="260" height="110"></div>
+            <li class="gyzcgs"><a href="/home/yidongposui"><div class="services_ico"><img src="/picture/2016.10.17_15.52.27_9747.jpg" width="260" height="110"></div>
                 <div class="services_block">
                     <div class="services_block_b"></div>
                     <div class="services_block_Content c_white">
@@ -192,7 +192,7 @@
                 </div>
             </a></li>
 
-            <li class="gyzcgs"><a href="http://www.zhengshengchina.com/product/PLDpeiliaoji_4/"><div class="services_ico"><img src="/picture/2016.10.17_17.1.32_6042.jpg" width="260" height="110"></div>
+            <li class="gyzcgs"><a href="/home/peitao"><div class="services_ico"><img src="/picture/2016.10.17_17.1.32_6042.jpg" width="260" height="110"></div>
                 <div class="services_block">
                     <div class="services_block_b"></div>
                     <div class="services_block_Content c_white">

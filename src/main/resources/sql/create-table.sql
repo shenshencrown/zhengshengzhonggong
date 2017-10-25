@@ -8,3 +8,12 @@ createtime date not null comment '用户创建时间',
 changetime date not null comment '用户修改时间',
 primary key(id)
 )comment='用户表';
+/**
+create table user(
+  id int unsigned not null auto_increment comment '用户id',
+  username varchar(24) not null comment '用户名',
+  password varchar(24) not null comment '密码',
+  logintime char(19) comment '上次登录时间',
+  primary key(id)
+)comment='用户登录表';
+*/

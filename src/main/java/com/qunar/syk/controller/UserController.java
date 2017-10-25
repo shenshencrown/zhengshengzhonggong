@@ -1,18 +1,8 @@
 package com.qunar.syk.controller;
 
-import com.qunar.syk.entity.User;
-import com.qunar.syk.service.UserService;
-import com.qunar.syk.support.HttpRequest;
-import com.qunar.syk.support.exceptionhandler.NoIdException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
-
-import javax.annotation.Resource;
-import javax.servlet.http.HttpServletRequest;
-import java.util.List;
 
 /**
  * Created by syk on 2017/6/1.

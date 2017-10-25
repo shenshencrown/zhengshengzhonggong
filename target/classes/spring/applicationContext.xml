@@ -67,6 +67,12 @@
         <constructor-arg index="0" ref="sqlSessionFactory"/>
     </bean>
 
+    <!--&lt;!&ndash;单个mapper的映射&ndash;&gt;-->
+    <bean id="employeeDao" class="org.mybatis.spring.mapper.MapperFactoryBean">
+        <property name="mapperInterface" value="com.qunar.syk.dao.UserDao"/>
+        <property name="sqlSessionFactory" ref="sqlSessionFactory"/>
+    </bean>
+
     <jdbc:initialize-database>
         <jdbc:script location="classpath:init.sql"/>
     </jdbc:initialize-database>
