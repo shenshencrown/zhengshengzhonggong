@@ -40,7 +40,6 @@
         <load-on-startup>3</load-on-startup>
     </servlet>
 
-
     <servlet-mapping>
         <servlet-name>springMVC</servlet-name>
         <url-pattern>/</url-pattern>
