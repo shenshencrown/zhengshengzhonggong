@@ -5,7 +5,11 @@
   Time: 22:25
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8" isELIgnored="false" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>后台管理导航</title>
     <link rel="stylesheet" href="/css/CssAdmin.css">
@@ -36,7 +40,7 @@
                     <td height="25">用户名称：admin</td>
                 </tr>
                 <tr>
-                    <td height="25">IP地址：112.28.173.56</td>
+                    <td height="25">IP地址：${ipAddress}</td>
                 </tr>
                 </tbody></table>
         </div>

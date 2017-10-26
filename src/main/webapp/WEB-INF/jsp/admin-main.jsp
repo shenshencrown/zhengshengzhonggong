@@ -47,7 +47,7 @@
             </font>
         </td>
         <td height="30">
-            <iframe style="Z-INDEX:3; VISIBILITY:inherit; WIDTH:100%; HEIGHT:30" name="headFrame" id="mainFrame" marginwidth="16" marginheight="3" src="/main/head" frameborder="0" scrolling="no">
+            <iframe style="Z-INDEX:3; VISIBILITY:inherit; WIDTH:100%; HEIGHT:30" name="headFrame" id="headFrame" marginwidth="16" marginheight="3" src="/main/head" frameborder="0" scrolling="no">
             </iframe>
         </td>
     </tr>

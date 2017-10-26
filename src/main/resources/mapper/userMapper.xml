@@ -16,9 +16,21 @@
         WHERE username=#{username}
     </select>
 
+    <select id="selectLoginTime" parameterType="String" resultType="String">
+        SELECT logintime
+        FROM user
+        WHERE username=#{username}
+    </select>
+
     <update id="updatePassword" parameterType="java.util.Map">
         UPDATE user
         SET password=#{password}
+        WHERE username=#{username}
+    </update>
+
+    <update id="updateLoginTime" parameterType="java.util.Map">
+        UPDATE user
+        SET logintime=#{logintime}
         WHERE username=#{username}
     </update>
 </mapper>
