@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c9c95cd-e349-4346-971d-3eb87c2baf50" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/qunar/syk/controller/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/springlaifuzhi/WEB-INF/classes/com/qunar/syk/controller/UserController.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/springlaifuzhi.war" afterPath="$PROJECT_DIR$/target/springlaifuzhi.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysHead.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysHead.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysView.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysView.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-main.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-main.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminMainController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/ViewController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/ValidateController.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/CheckcodeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/adminController.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/qunar/syk/service/UserServiceImp.java" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/syk/service/impl/UserServiceImp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/CssAdmin.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/CssAdmin.css" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,110 +19,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckcodeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/CheckcodeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#getPic#0;class#CheckcodeController#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/service/impl/UserServiceImp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#updatePassword#0;class#UserServiceImp#0" expanded="false" />
-                <element signature="method#updateLoginTime#0;class#UserServiceImp#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SysLeft.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminMainController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminMainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+            <state relative-caret-position="119">
+              <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1615#1616#0" expanded="true" />
-                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminController.java">
+      <file leaf-file-name="Admin_left.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/Admin_left.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#loginValidate#0;class#AdminController#0" expanded="false" />
-                <element signature="e#2091#2092#0" expanded="true" />
-                <element signature="e#2126#2127#0" expanded="true" />
-                <element signature="method#showPass#0;class#AdminController#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin-main.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-main.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            <state relative-caret-position="-1213">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SysView.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CssAdmin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/CssAdmin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10474">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysView.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysView.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="134" column="69" lean-forward="false" selection-start-line="134" selection-start-column="69" selection-end-line="134" selection-end-column="69" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SysHead.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysHead.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-477">
-              <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+            <state relative-caret-position="225">
+              <caret line="142" column="28" lean-forward="true" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IPAdressUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/support/tools/IPAdressUtil.java">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="71" column="73" lean-forward="false" selection-start-line="71" selection-start-column="66" selection-end-line="71" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/jdbc.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-185">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -146,8 +114,8 @@
       <file leaf-file-name="ViewController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/ViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="200">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -167,7 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>破碎设备</find>
       <find>移动破碎站</find>
       <find>移动破碎</find>
       <find>配套设备</find>
@@ -197,6 +164,7 @@
       <find>html</find>
       <find>SysView</find>
       <find>showDate</find>
+      <find>SystemLeft</find>
     </findStrings>
     <replaceStrings>
       <replace>${pageContext.request.contextPath}</replace>
@@ -239,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shaifen.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/joinus.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/peijianfuwu.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/problem.jsp" />
@@ -290,6 +257,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminMainController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysView.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/CssAdmin.css" />
       </list>
     </option>
   </component>
@@ -358,8 +326,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -400,15 +366,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -416,62 +373,7 @@
               <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syk" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
@@ -486,23 +388,7 @@
               <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
@@ -511,22 +397,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhengshengzhonggong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhengshengzhonggong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -856,6 +735,7 @@
       <workItem from="1508895032555" duration="12758000" />
       <workItem from="1508934586629" duration="1487000" />
       <workItem from="1509001226951" duration="14252000" />
+      <workItem from="1509028122330" duration="5982000" />
     </task>
     <servers />
   </component>
@@ -865,7 +745,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178248000" />
+    <option name="totallyTimeSpent" value="184230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -888,10 +768,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39212328" sideWeight="0.77912253" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28938356" sideWeight="0.77912253" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24205749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -916,29 +796,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/http/HttpServletRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/zaixianliuyan.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6450">
-          <caret line="258" column="9" lean-forward="false" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/posuishengchanxian.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="99" column="55" lean-forward="false" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/zhishashengchanxian.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2525">
@@ -992,13 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/sql/import-data.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1033,13 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/Admin_left.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1167,32 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="11279" column="26" lean-forward="true" selection-start-line="11279" selection-start-column="26" selection-end-line="11279" selection-end-column="26" />
-          <folding>
-            <marker date="1508864266958" expanded="true" signature="262908:262917" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="283267:283322" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="296291:296346" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="297093:297102" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="347068:347088" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="347117:347187" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="349371:349400" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="349415:349494" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="349554:349584" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="358264:358350" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="395834:395849" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="395920:395940" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="416157:416173" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="416213:416230" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="589401:589421" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="589445:589461" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="644451:644457" ph="&amp;nbsp;" />
-            <marker date="1508864266958" expanded="true" signature="655902:655942" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="656095:656135" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="656287:656431" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="656584:656624" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="656772:656866" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="657006:657105" ph="..." />
-            <marker date="1508864266958" expanded="true" signature="657254:657353" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,26 +1021,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/testUserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="72" column="29" lean-forward="false" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1249,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,20 +1082,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/ViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/CheckcodeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="275">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#getPic#0;class#CheckcodeController#0" expanded="false" />
           </folding>
         </state>
@@ -1303,81 +1095,145 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/service/impl/UserServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="225">
           <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#updatePassword#0;class#UserServiceImp#0" expanded="false" />
             <element signature="method#updateLoginTime#0;class#UserServiceImp#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-main.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminMainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="350">
+          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+            <element signature="e#1650#1651#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/support/tools/IPAdressUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="650">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#loginValidate#0;class#AdminController#0" expanded="false" />
+            <element signature="e#2091#2092#0" expanded="false" />
+            <element signature="e#2126#2127#0" expanded="false" />
+            <element signature="method#showPass#0;class#AdminController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysHead.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477">
+        <state relative-caret-position="275">
           <caret line="11" column="74" lean-forward="false" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/support/tools/IPAdressUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#loginValidate#0;class#AdminController#0" expanded="false" />
-            <element signature="e#2091#2092#0" expanded="true" />
-            <element signature="e#2126#2127#0" expanded="true" />
-            <element signature="method#showPass#0;class#AdminController#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="125">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/AdminMainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/syk/controller/ViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1615#1616#0" expanded="true" />
-            <element signature="e#1650#1651#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="200">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysView.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="134" column="69" lean-forward="false" selection-start-line="134" selection-start-column="69" selection-end-line="134" selection-end-column="69" />
+        <state relative-caret-position="225">
+          <caret line="142" column="28" lean-forward="true" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/Admin_left.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1213">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10474">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/SysLeft.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="71" lean-forward="true" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
           <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/CssAdmin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="71" column="73" lean-forward="false" selection-start-line="71" selection-start-column="66" selection-end-line="71" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -132,7 +132,7 @@
         <td width="52%">现在时间：<font class="t4" id="showDate"> 2017年10月22日18:21</font></td>
     </tr>
     <tr class="tr_southidc">
-        <td width="48%" height="23">IP： <font class="t4">112.28.173.56</font></td>
+        <td width="48%" height="23">IP： <font class="t4">${ipAddress}</font></td>
         <td width="52%">上线时间：<font class="t4">${logintime} </font></td>
     </tr>
     <tr class="tr_southidc">
