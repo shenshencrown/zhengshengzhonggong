@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="springlaifuzhi:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="springlaifuzhi.war">
-      <element id="artifact" artifact-name="springlaifuzhi:war exploded" />
-    </root>
-  </artifact>
-</component>

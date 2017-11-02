@@ -55,4 +55,9 @@ public class AdminMainController {
     public String showPassUpdate(Model model) {
         return "passUpdate";
     }
+
+    @RequestMapping("/productEdit")
+    public String showProductEdit(Model model) {
+        return "productEdit";
+    }
 }
